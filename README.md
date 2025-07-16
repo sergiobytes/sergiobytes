@@ -13,7 +13,8 @@ I’m passionate about clean architecture, developer experience, and meaningful 
 ### 💻 Frontend
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/sergiobytes/sergiobytes/refs/heads/main/assets/icons/angular.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/sergiobytes/sergiobytes/refs/heads/main/assets/icons/html5.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/sergiobytes/sergiobytes/refs/heads/main/assets/icons/css.svg"  height="40"/>
   <!-- <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,react,vue,astro" height="40" /> -->
 </div>
 
