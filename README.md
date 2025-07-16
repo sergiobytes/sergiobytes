@@ -13,9 +13,7 @@ I’m passionate about clean architecture, developer experience, and meaningful 
 ### 💻 Frontend
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/sergiobytes/sergiobytes/refs/heads/main/assets/icons/html5.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/sergiobytes/sergiobytes/refs/heads/main/assets/icons/css.svg"  height="40"/>
-  <!-- <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,react,vue,astro" height="40" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,angular,react,vue,astro" height="40" />
 </div>
 
 ### 📱 Mobile
@@ -73,6 +71,8 @@ I’m passionate about clean architecture, developer experience, and meaningful 
 </p>
 
 ## 📌 Featured Projects
+- [🧠 ai-trivia-backend](https://github.com/sergiobytes/ai-trivia-backend)  
+  NestJS-based backend powering the trivia app. OpenAI integration, JWT, Swagger, stats & more.
 
 - [🌐 ai-trivia-web](https://github.com/sergiobytes/ai-trivia-web)  
   Angular-based trivia web app connected to the backend. Generates questions through OpenAI integration.
