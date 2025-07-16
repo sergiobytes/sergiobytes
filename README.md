@@ -71,18 +71,18 @@ I’m passionate about clean architecture, developer experience, and meaningful 
 </p>
 
 ## 📌 Featured Projects
+
 - [🧠 ai-trivia-backend](https://github.com/sergiobytes/ai-trivia-backend)  
-  NestJS-based backend powering the trivia app. OpenAI integration, JWT, Swagger, stats & more.
+  NestJS-based backend for a trivia app powered by OpenAI. Supports JWT authentication, real-time thread context, question tracking, and admin tools.
 
 - [🌐 ai-trivia-web](https://github.com/sergiobytes/ai-trivia-web)  
-  Angular-based trivia web app connected to the backend. Generates questions through OpenAI integration.
-
-- [🏢 frontend-casei](https://github.com/residencias-isc-2025/frontend-casei)  
-  University residency project developed for CACEI. Built a training management dashboard using Angular to track course progress, employee certifications, and reports.
+  Angular web app integrated with the backend. Provides a responsive and dynamic trivia experience using AI-generated questions.
 
 - [⛪ diócesis-frontend-material](https://github.com/Sergio-Frontend-Projects/diocesis-frontend-material)  
-  Internal dashboard built with Angular and Angular Material to manage parishes, colonies, users, and training courses for a diocesan organization. Features form validation, filtering, file uploads and responsive design.
+  Internal dashboard built with Angular and Angular Material to manage parishes, colonies, users, etc. Includes filters, form validation, file uploads, and role-based UI.
 
+- [🏢 frontend-casei](https://github.com/residencias-isc-2025/frontend-casei)  
+  Professional residency project for CASEI. Developed a training management system in Angular to track employee certifications, progress, and reports.
 
 ## 📫 Let's Connect
 
