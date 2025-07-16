@@ -77,6 +77,13 @@ I’m passionate about clean architecture, developer experience, and meaningful 
 - [🌐 ai-trivia-web](https://github.com/sergiobytes/ai-trivia-web)  
   Angular-based trivia web app connected to the backend. Generates questions through OpenAI integration.
 
+- [🏢 frontend-casei](https://github.com/residencias-isc-2025/frontend-casei)  
+  University residency project developed for CACEI. Built a training management dashboard using Angular to track course progress, employee certifications, and reports.
+
+- [⛪ diócesis-frontend-material](https://github.com/Sergio-Frontend-Projects/diocesis-frontend-material)  
+  Internal dashboard built with Angular and Angular Material to manage parishes, colonies, users, and training courses for a diocesan organization. Features form validation, filtering, file uploads and responsive design.
+
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-barreras)
