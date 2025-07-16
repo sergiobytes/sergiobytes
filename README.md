@@ -1,136 +1,74 @@
-# Hello there, I'm Sergio Barreras 🤓
+<h1 align="center">Hi there 👋, I'm Sergio Barreras</h1>
+<h3 align="center">Full Stack Developer | Angular · NestJS · Flutter · AI</h3>
 
-## About me
+## ✨ About Me
 
-I'm a Full Stack Developer with a strong focus on creating scalable, modern, and user-friendly web & mobile applications.
+I'm a Full Stack Developer creating scalable web & mobile apps with Angular, NestJS/Django, PostgreSQL & Flutter.  
+I integrate AI solutions using OpenAI APIs, build QR-based ordering systems, and enjoy turning ideas into real-world MVPs.  
+I’m passionate about clean architecture, developer experience, and meaningful user interfaces.  
+**Always learning, always building.**
 
-I enjoy working on real-world projects using Angular for frontend, NestJS or Django for backend, and PostgreSQL for data persistence. I also build mobile apps with Flutter and explore AI integrations through OpenAI's APIs.
-
-* 💡 I’m passionate about clean architecture, efficient systems, and turning ideas into actual products — especially MVPs for startups.
-* 🚀 Currently working on AI-powered assistants, chatbot-driven food ordering systems, and QR-based web integrations.
-* 🧠 Always learning, always building.
-
-### Web & Mobile Developer
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sergiobytes&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
-
-
-## Technologies
+## 🔧 Technologies & Tools
 
 ### 💻 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" />
-  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,react,vue,astro" height="40" />
 </div>
 
 ### 📱 Mobile
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" />
 </div>
 
-### 🧠 Backend & API
+### 🧠 Backend & APIs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=apollo" height="40" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,django,graphql,apollo" height="40" />
 </div>
 
-### 🛢️ Database & ORMs
+### 🛢️ Databases & ORMs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,prisma" height="40" />
 </div>
 
-### ⚙️ DevOps & Infra
+### ⚙️ DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,netlify,nginx" height="40" />
 </div>
 
 ### 🧪 Testing & Tooling
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=jest" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vitest" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,postman" height="40" />
 </div>
 
-### 🔧 Package Managers & State Management
+### 📦 Package & State Management
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=npm" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=pinia" height="40" />
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,pinia" height="40" />
 </div>
 
 ### 💡 Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,py" height="40" />
 </div>
 
-### 🛠️ Others & Utilities
+### 🛠️ Others
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=reactivex" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=deno" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,reactivex,dotnet,vite,deno,visualstudio,vscode" height="40" />
 </div>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sergiobytes&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" width="380"/>
+</p>
+
+## 📌 Featured Projects
+- [🌐 ai-trivia-web](https://github.com/sergiobytes/ai-trivia-web)  
+  Angular-based trivia web app connected to the backend. Generates questions through OpenAI integration.
+  
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-barreras)
+- 🌐 [Portafolio](https://sergio-barreras-dev.netlify.app/)
+- 📧 sergiobg.isc@gmail.com
+
+> “Great software starts with great collaboration — let’s build something together.”
