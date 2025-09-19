@@ -10,6 +10,12 @@ Full stack developer focused on building scalable web and mobile solutions. Pass
 
 ---
 
+## 🏢 Entrepreneurship
+
+Co-founder of [DevCrafters](https://devcrafters.dev/), a software development company focused on delivering modern web, mobile, and cloud solutions for clients.
+
+---
+
 ## 🛠️ Technologies
 
 **💡 Languages**
