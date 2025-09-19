@@ -1,8 +1,4 @@
-# Sergiobytes
-
-Full Stack Developer | Web · Mobile · Cloud · Automation
-
----
+# Full Stack Developer | Web · Mobile · Cloud · Automation
 
 ## ✨ About Me
 
