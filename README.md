@@ -52,7 +52,7 @@ Co-founder of [DevCrafters](https://devcrafters.dev/), a software development co
 
 **🛠️ Others**
 
-<img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,rxjs,dotnet,vite,deno,visualstudio,vscode" height="28" />
+<img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,rxjs,dotnet,vite,deno,visualstudio,vscode" height="28" />
 
 ---
 
@@ -70,6 +70,11 @@ Co-founder of [DevCrafters](https://devcrafters.dev/), a software development co
 - [ai-trivia-web](https://github.com/sergiobytes/ai-trivia-web): Angular app for trivia with AI-generated questions.
 - [diocesis-frontend-material](https://github.com/Sergio-Frontend-Projects/diocesis-frontend-material): Angular Material dashboard for internal management.
 - [frontend-casei](https://github.com/residencias-isc-2025/frontend-casei): Training management system in Angular.
+---
+
+## 📫 Contact
+
+sergiobg.isc@gmail.com
 
 ---
 
@@ -103,10 +108,7 @@ Here are some of the courses and certifications I've completed on DevTalles and 
   <a href="https://cursos.devtalles.com/certificates/ambsctervm"><img src="https://img.shields.io/badge/Vue.js%20de%20Cero%20a%20Experto%3A%20Composition%20Api-2024-green?style=for-the-badge" /></a>
   <a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/NestJS%20%2B%20Testing%3A%20Pruebas%20unitarias%20y%20end%20to%20end%20(e2e)-2025-red?style=for-the-badge" /></a> 
   <a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Flutter%20%2B%20Gemini%3A%20Aplicaciones%20con%20inteligencia%20artificial-2025-blue?style=for-the-badge" /></a>
+  <a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Patrones%20de%20Dise%C3%B1o%3A%20Soluciones%20pr%C3%A1cticas%20y%20eficientes-2025-orange?style=for-the-badge" /></a>
 </p>
 
----
 
-## 📫 Contact
-
-[Portfolio](https://sergio-barreras-dev.netlify.app/) · sergiobg.isc@gmail.com
