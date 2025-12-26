@@ -59,7 +59,7 @@ Co-founder of [DevCrafters](https://devcrafters.dev/), a software development co
 ## 📈 GitHub Stats
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=sergiobytes&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" width="380"/>
+	<img src="https://streak-stats.demolab.com?user=sergiobytes&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,5 +110,6 @@ Here are some of the courses and certifications I've completed on DevTalles and 
   <a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/NestJS%20%2B%20Testing%3A%20Pruebas%20unitarias%20y%20end%20to%20end%20(e2e)-2025-990033?style=for-the-badge" /></a> 
   <a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Flutter%20%2B%20Gemini%3A%20Aplicaciones%20con%20inteligencia%20artificial-2025-02569B?style=for-the-badge" /></a>
   <a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Patrones%20de%20Dise%C3%B1o%3A%20Soluciones%20pr%C3%A1cticas%20y%20eficientes-2025-5C6BC0?style=for-the-badge" /></a>
+  <a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/TailwindCSS%3A%20Para%20desarrolladores%20de%20software-2025-14B8A6?style=for-the-badge"/></a>
   <!-- <a href="CERTIFICATE_URL_HERE"><img src="https://img.shields.io/badge/Java%3A%20Explora%20el%20lenguaje%20desde%20cero-2025-F8981D?style=for-the-badge" /></a> -->
 </p>
