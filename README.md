@@ -1,17 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-?type=waving
-&height=250
-&text=Sergio%20Barreras
-&fontAlign=50
-&fontAlignY=35
-&desc=Full%20Stack%20Developer%20|%20Web%20·%20Mobile%20·%20Cloud%20·%20Automation
-&descAlign=50
-&descAlignY=60
-&fontFamily=Inter
-&fontSize=40
-&color=0:11998E,100:38EF7D
-&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sergio%20Barreras&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Web%20·%20Mobile%20·%20Cloud%20·%20Automation&descAlign=50&descAlignY=60&color=0:11998E,100:38EF7D&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -24,16 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-?font=Fira+Code
-&size=17
-&duration=2500
-&pause=600
-&center=true
-&vCenter=true
-&width=720
-&color=E5E7EB
-&lines=Building+scalable+web+%26+mobile+solutions;Clean+Architecture+%7C+UX+Driven+%7C+Automation+Mindset;Angular+%7C+Vue+%7C+NestJS+%7C+Flutter+%7C+.NET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=600&center=true&vCenter=true&width=720&color=E5E7EB&lines=Building+scalable+web+%26+mobile+solutions;Clean+Architecture+%7C+UX+Driven+%7C+Automation+Mindset;Angular+%7C+Vue+%7C+NestJS+%7C+Flutter+%7C+.NET" />
 </p>
 
 ---
