@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sergio%20Barreras&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Web%20·%20Mobile%20·%20Cloud%20·%20Automation&descAlign=50&descAlignY=60&color=0:11998E,100:38EF7D&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sergio%20Barreras&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Web%20·%20Mobile%20·%20Cloud%20·%20Automation&descAlign=50&descAlignY=60&color=0:0F766E,100:38BDF8&animation=twinkling" />
 </p>
 
 <p align="center">
   <a href="mailto:sergiobg.isc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sergiobg.isc%40gmail.com-22C55E?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-sergiobg.isc%40gmail.com-0F766E?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sergio-barreras/">
     <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Barreras-0A66C2?style=for-the-badge&logoColor=white"/>
@@ -80,7 +80,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiobytes&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38EF7D&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=6B7280&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sergiobytes&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=38BDF8&currStreakLabel=0F766E&sideLabels=9CA3AF&dates=6B7280&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ---
@@ -90,29 +90,29 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 <table>
   <tr><td colspan="3" align="center"><b>2025</b></td></tr>
   <tr>
-    <td><img src="./assets/tanstack.svg" /></td>
+    <td><img src="./assets/tanstack.svg" width="14" height="14"/></td>
     <td>TanStack Query - Un poderoso gestor de estado asíncrono</td>
-    <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge"/></a></td>
+    <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="./assets/tailwind.svg" /></td>
+    <td><img src="./assets/tailwind.svg" width="14" height="14"/></td>
     <td>TailwindCSS: Para desarrolladores de software</td>
-    <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge"/></a></td>
+    <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="./assets/patrones.svg" /></td>
+    <td><img src="./assets/patrones.svg" width="14" height="14"/></td>
     <td>Patrones de Diseño: Soluciones prácticas y eficientes</td>
-    <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+    <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="./assets/flutter-gemini.svg" /></td>
+    <td><img src="./assets/flutter-gemini.svg" width="14" height="14"/></td>
     <td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td>
-    <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+    <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="./assets/nest-testing.svg" /></td>
+    <td><img src="./assets/nest-testing.svg" width="14" height="14"/></td>
     <td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td>
-    <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+    <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
 </table>
 
@@ -121,94 +121,94 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <br/>
   <table>
     <tr>
-      <td><img src="./assets/vue.svg" /></td>
+      <td><img src="./assets/vue.svg" width="14" height="14"/></td>
       <td>Vue.js - de Cero a Experto: Composition API</td>
-      <td><a href="https://cursos.devtalles.com/certificates/ambsctervm"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/ambsctervm"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/flutter-avanzado.svg" /></td>
+      <td><img src="./assets/flutter-avanzado.svg" width="14" height="14"/></td>
       <td>Flutter Avanzado: Lleva tu conocimiento al siguiente nivel</td>
-      <td><a href="https://cursos.devtalles.com/certificates/tavnb6l34a"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/tavnb6l34a"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/angular-pro.svg" /></td>
+      <td><img src="./assets/angular-pro.svg" width="14" height="14"/></td>
       <td>Angular Pro: Lleva tus bases al siguiente nivel</td>
-      <td><a href="https://cursos.devtalles.com/certificates/pmar95bhf9"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/pmar95bhf9"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/openai-angular-nest.svg" /></td>
+      <td><img src="./assets/openai-angular-nest.svg" width="14" height="14"/></td>
       <td>OpenAI: Ejercicios y asistentes con Angular + NestJS</td>
-      <td><a href="https://cursos.devtalles.com/certificates/dadl3s5o1e"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/dadl3s5o1e"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/angular.svg" /></td>
+      <td><img src="./assets/angular.svg" width="14" height="14"/></td>
       <td>Angular de cero a experto</td>
-      <td><a href="https://cursos.devtalles.com/certificates/wujmo3p24o"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/wujmo3p24o"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/nest-graphql.svg" /></td>
+      <td><img src="./assets/nest-graphql.svg" width="14" height="14"/></td>
       <td>Nest + GraphQL: Evoluciona tus APIs</td>
-      <td><a href="https://cursos.devtalles.com/certificates/rhoio7rjii"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/rhoio7rjii"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/nest-reportes.svg" /></td>
+      <td><img src="./assets/nest-reportes.svg" width="14" height="14"/></td>
       <td>NestJS + Reportes: Genera PDFs desde Node</td>
-      <td><a href="https://cursos.devtalles.com/certificates/qxpu4wdhfo"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/qxpu4wdhfo"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/flutter-intermedio.svg" /></td>
+      <td><img src="./assets/flutter-intermedio.svg" width="14" height="14"/></td>
       <td>Flutter Intermedio: Diseños profesionales y animaciones</td>
-      <td><a href="https://cursos.devtalles.com/certificates/tzsxfglovi"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/tzsxfglovi"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/docker.svg" /></td>
+      <td><img src="./assets/docker.svg" width="14" height="14"/></td>
       <td>Docker - Guía práctica de uso para desarrolladores</td>
-      <td><a href="https://cursos.devtalles.com/certificates/54qgewgtwu"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/54qgewgtwu"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/flutter-nativos.svg" /></td>
+      <td><img src="./assets/flutter-nativos.svg" width="14" height="14"/></td>
       <td>Flutter Móvil: Recursos Nativos - Nivel Intermedio</td>
-      <td><a href="https://cursos.devtalles.com/certificates/nkkxcrstqv"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/nkkxcrstqv"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/reactive-x.svg" /></td>
+      <td><img src="./assets/reactive-x.svg" width="14" height="14"/></td>
       <td>ReactiveX - RxJs: De cero hasta los detalles</td>
-      <td><a href="https://cursos.devtalles.com/certificates/ajeqyvap3g"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/ajeqyvap3g"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/csharp-udemy.svg" /></td>
+      <td><img src="./assets/csharp-udemy.svg" width="14" height="14"/></td>
       <td>Aprende Programación Backend en C# .NET</td><td>
-      <a href="https://www.udemy.com/certificate/UC-3c19d245-df15-47ee-afb8-f1c860eaaedb/"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <a href="https://www.udemy.com/certificate/UC-3c19d245-df15-47ee-afb8-f1c860eaaedb/"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/nest-micro.svg" /></td>
+      <td><img src="./assets/nest-micro.svg" width="14" height="14"/></td>
       <td>NestJS + Microservicios: Aplicaciones escalables y modulares</td>
-      <td><a href="https://cursos.devtalles.com/certificates/irmcjis4tb"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/irmcjis4tb"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/riverpod.svg" /></td>
+      <td><img src="./assets/riverpod.svg" width="14" height="14"/></td>
       <td>Mini-Curso: Riverpod providers con anotaciones</td>
-      <td><a href="https://cursos.devtalles.com/certificates/ngihoc8hka"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/ngihoc8hka"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/flutter.svg" /></td>
+      <td><img src="./assets/flutter.svg" width="14" height="14"/></td>
       <td>Flutter - Móvil: De cero a experto</td>
-      <td><a href="https://cursos.devtalles.com/certificates/xxaor6d2h2"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/xxaor6d2h2"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/nest.svg" /></td>
+      <td><img src="./assets/nest.svg" width="14" height="14"/></td>
       <td>Nest: Desarrollo backend escalable con Node</td>
-      <td><a href="https://cursos.devtalles.com/certificates/icfl1m2jwl"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/icfl1m2jwl"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/node-clean.svg" /></td>
+      <td><img src="./assets/node-clean.svg" width="14" height="14"/></td>
       <td>Node - Autenticación Rest con Clean Architecture</td>
-      <td><a href="https://cursos.devtalles.com/certificates/ugqjzeblat"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/ugqjzeblat"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/node.svg" /></td>
+      <td><img src="./assets/node.svg" width="14" height="14"/></td>
       <td>Node.Js: De cero a experto</td>
-      <td><a href="https://cursos.devtalles.com/certificates/3kj05k91sx"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/3kj05k91sx"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
   </table>
 </details>
@@ -218,29 +218,29 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <br/>
   <table>
     <tr>
-      <td><img src="./assets/sql.svg" /></td>
+      <td><img src="./assets/sql.svg" width="14" height="14"/></td>
       <td>SQL de cero: Tu guía práctica con PostgreSQL</td>
-      <td><a href="https://cursos.devtalles.com/certificates/m5ez6kwi3a"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/m5ez6kwi3a"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/solid.svg" /></td>
+      <td><img src="./assets/solid.svg" width="14" height="14"/></td>
       <td>Principios SOLID y Clean Code</td>
-      <td><a href="https://cursos.devtalles.com/certificates/s17vg774yc"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/s17vg774yc"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/typescript.svg" /></td>
+      <td><img src="./assets/typescript.svg" width="14" height="14"/></td>
       <td>TypeScript: Tu completa guía y manual de mano</td>
-      <td><a href="https://cursos.devtalles.com/certificates/btiignzhpb"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/btiignzhpb"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/javascript.svg" /></td>
+      <td><img src="./assets/javascript.svg" width="14" height="14"/></td>
       <td>JavaScript Moderno: Guía para dominar el lenguaje</td>
-      <td><a href="https://cursos.devtalles.com/certificates/kexmuijhyf"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/kexmuijhyf"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="./assets/git.svg" /></td>
+      <td><img src="./assets/git.svg" width="14" height="14"/></td>
       <td>GIT+GitHub: Todo un sistema de control de versiones de cero</td>
-      <td><a href="https://cursos.devtalles.com/certificates/bgyevufaap"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
+      <td><a href="https://cursos.devtalles.com/certificates/bgyevufaap"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
     </tr>
   </table>
 </details>
