@@ -130,28 +130,12 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 ## 🎓 Certifications
 
 <table>
-  <tr>
-    <td colspan="2"><b>2025</b></td>
-  </tr>
-  <tr>
-    <td>TanStack Query - Un poderoso gestor de estado asíncrono</td>
-    <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/Certificado-FF4154?style=for-the-badge"/></a></td>
-  </tr>
-  <tr>
-    <td>TailwindCSS: Para desarrolladores de software</td>
-    <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/Certificado-14B8A6?style=for-the-badge"/></a></td>
-  </tr>
-  <tr>
-    <td>Patrones de Diseño: Soluciones prácticas y eficientes</td>
-    <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Certificado-5C6BC0?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td>
-    <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Certificado-02569B?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td>
-    <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/Certificado-990033?style=for-the-badge" /></a></td>
+  <tr><td colspan="2"><b>2025</b></td></tr>
+  <tr><td>TanStack Query - Un poderoso gestor de estado asíncrono</td><td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/Certificado-Ver-FF4154?style=for-the-badge"/></a></td></tr>
+  <tr><td>TailwindCSS: Para desarrolladores de software</td><td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/Certificado-Ver-14B8A6?style=for-the-badge"/></a></td></tr>
+  <tr><td>Patrones de Diseño: Soluciones prácticas y eficientes</td><td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Certificado-Ver-5C6BC0?style=for-the-badge" /></a></td></tr>
+  <tr><td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td><td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Certificado-Ver-02569B?style=for-the-badge" /></a></td></tr>
+  <tr><td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td><td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/Certificado-Ver-990033?style=for-the-badge" /></a></td>
   </tr>
 </table>
 
@@ -159,38 +143,36 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <summary><b>📁 2024 Certifications</b></summary>
   <br/>
   <table>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/ambsctervm"><img src="https://img.shields.io/badge/Vue.js%20de%20Cero%20a%20Experto%3A%20Composition%20Api-2024-41B883?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/tavnb6l34a"><img src="https://img.shields.io/badge/Flutter%20Avanzado%3A%20Lleva%20tu%20conocimiento%20al%20siguiente%20nivel-2024-003366?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/pmar95bhf9"><img src="https://img.shields.io/badge/Angular%20Pro%3A%20Lleva%20tus%20bases%20al%20siguiente%20nivel-2024-990033?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/dadl3s5o1e"><img src="https://img.shields.io/badge/OpenAI%3A%20Ejercicios%20y%20asistentes%20con%20Angular%20%2B%20NestJS-2024-46B8B8?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/wujmo3p24o"><img src="https://img.shields.io/badge/Angular%3A%20De%20cero%20a%20experto-2024-DD0031?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/rhoio7rjii"><img src="https://img.shields.io/badge/Nest%20%2B%20GraphQL%3A%20Evoluciona%20tus%20APIs-2024-E10098?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/qxpu4wdhfo"><img src="https://img.shields.io/badge/NestJs%20%2B%20Reportes%3A%20Genera%20PDFs%20desde%20Node-2024-990033?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/tzsxfglovi"><img src="https://img.shields.io/badge/Flutter%20%E2%80%93%20M%C3%B3vil%3A%20Dise%C3%B1os%20profesionales%20y%20animaciones-2024-1E90FF?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/54qgewgtwu"><img src="https://img.shields.io/badge/Docker%3A%20Gu%C3%ADa%20pr%C3%A1ctica%20de%20uso%20para%20desarrolladores-2024-0DB7ED?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/nkkxcrstqv"><img src="https://img.shields.io/badge/Flutter%20%E2%80%93%20M%C3%B3vil%3A%20Recursos%20Nativos-2024-004D80?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/ajeqyvap3g"><img src="https://img.shields.io/badge/ReactiveX%20%E2%80%93%20RxJs%3A%20De%20cero%20hasta%20los%20detalles-2024-E64A19?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://www.udemy.com/certificate/UC-3c19d245-df15-47ee-afb8-f1c860eaaedb/"><img src="https://img.shields.io/badge/Aprende%20Programaci%C3%B3n%20Backend%20en%20C%23%20.NET-2024-512BD4?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/irmcjis4tb"><img src="https://img.shields.io/badge/NestJS%20%2B%20Microservicios%3A%20Aplicaciones%20escalables%20y%20modulares-2024-D81B60?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/ngihoc8hka"><img src="https://img.shields.io/badge/Mini--Curso%3A%20Riverpod%20providers%20con%20anotaciones-2024-00BCD4?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/xxaor6d2h2"><img src="https://img.shields.io/badge/Flutter%20%E2%80%93%20M%C3%B3vil%3A%20De%20cero%20a%20experto-2024-00BCD4?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/icfl1m2jwl"><img src="https://img.shields.io/badge/Nest%3A%20Desarrollo%20backend%20escalable%20con%20Node-2024-E0234E?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/ugqjzeblat"><img src="https://img.shields.io/badge/Node%20%E2%80%93%20Autenticaci%C3%B3n%20Rest%20con%20Clean%20Architecture-2024-4C7B47?style=for-the-badge" /></a></td></tr>
-    <tr><td></td><td><a href="https://cursos.devtalles.com/certificates/3kj05k91sx"><img src="https://img.shields.io/badge/Node.Js%3A%20De%20cero%20a%20experto-2024-68A063?style=for-the-badge" /></a></td></tr>
+    <tr><td>Vue.js - de Cero a Experto: Composition API</td><td><a href="https://cursos.devtalles.com/certificates/ambsctervm"><img src="https://img.shields.io/badge/Certificado-Ver-41B883?style=for-the-badge" /></a></td></tr>
+    <tr><td>Flutter Avanzado: Lleva tu conocimiento al siguiente nivel</td><td><a href="https://cursos.devtalles.com/certificates/tavnb6l34a"><img src="https://img.shields.io/badge/Certificado-Ver-003366?style=for-the-badge" /></a></td></tr>
+    <tr><td>Angular Pro: Lleva tus bases al siguiente nivel</td><td><a href="https://cursos.devtalles.com/certificates/pmar95bhf9"><img src="https://img.shields.io/badge/Certificado-Ver-990033?style=for-the-badge" /></a></td></tr>
+    <tr><td>OpenAI: Ejercicios y asistentes con Angular + NestJS</td><td><a href="https://cursos.devtalles.com/certificates/dadl3s5o1e"><img src="https://img.shields.io/badge/Certificado-Ver-46B8B8?style=for-the-badge" /></a></td></tr>
+    <tr><td>Angular de cero a experto</td><td><a href="https://cursos.devtalles.com/certificates/wujmo3p24o"><img src="https://img.shields.io/badge/Certificado-Ver-DD0031?style=for-the-badge" /></a></td></tr>
+    <tr><td>Nest + GraphQL: Evoluciona tus APIs</td><td><a href="https://cursos.devtalles.com/certificates/rhoio7rjii"><img src="https://img.shields.io/badge/Certificado-Ver-E10098?style=for-the-badge" /></a></td></tr>
+    <tr><td>NestJS + Reportes: Genera PDFs desde Node</td><td><a href="https://cursos.devtalles.com/certificates/qxpu4wdhfo"><img src="https://img.shields.io/badge/Certificado-Ver-990033?style=for-the-badge" /></a></td></tr>
+    <tr><td>Flutter Intermedio: Diseños profesionales y animaciones</td><td><a href="https://cursos.devtalles.com/certificates/tzsxfglovi"><img src="https://img.shields.io/badge/Certificado-Ver-1E90FF?style=for-the-badge" /></a></td></tr>
+    <tr><td>Docker - Guía práctica de uso para desarrolladores</td><td><a href="https://cursos.devtalles.com/certificates/54qgewgtwu"><img src="https://img.shields.io/badge/Certificado-Ver-0DB7ED?style=for-the-badge" /></a></td></tr>
+    <tr><td>Flutter Móvil: Recursos Nativos - Nivel Intermedio</td><td><a href="https://cursos.devtalles.com/certificates/nkkxcrstqv"><img src="https://img.shields.io/badge/Certificado-Ver-004D80?style=for-the-badge" /></a></td></tr>
+    <tr><td>ReactiveX - RxJs: De cero hasta los detalles</td><td><a href="https://cursos.devtalles.com/certificates/ajeqyvap3g"><img src="https://img.shields.io/badge/Certificado-Ver-E64A19?style=for-the-badge" /></a></td></tr>
+    <tr><td>Aprende Programación Backend en C# .NET</td><td><a href="https://www.udemy.com/certificate/UC-3c19d245-df15-47ee-afb8-f1c860eaaedb/"><img src="https://img.shields.io/badge/Certificado-Ver-512BD4?style=for-the-badge" /></a></td></tr>
+    <tr><td>NestJS + Microservicios: Aplicaciones escalables y modulares</td><td><a href="https://cursos.devtalles.com/certificates/irmcjis4tb"><img src="https://img.shields.io/badge/Certificado-Ver-D81B60?style=for-the-badge" /></a></td></tr>
+    <tr><td>Mini-Curso: Riverpod providers con anotaciones</td><td><a href="https://cursos.devtalles.com/certificates/ngihoc8hka"><img src="https://img.shields.io/badge/Certificado-Ver-00BCD4?style=for-the-badge" /></a></td></tr>
+    <tr><td>Flutter - Móvil: De cero a experto</td><td><a href="https://cursos.devtalles.com/certificates/xxaor6d2h2"><img src="https://img.shields.io/badge/Certificado-Ver-00BCD4?style=for-the-badge" /></a></td></tr>
+    <tr><td>Nest: Desarrollo backend escalable con Node</td><td><a href="https://cursos.devtalles.com/certificates/icfl1m2jwl"><img src="https://img.shields.io/badge/Certificado-Ver-E0234E?style=for-the-badge" /></a></td></tr>
+    <tr><td>Node - Autenticación Rest con Clean Architecture</td><td><a href="https://cursos.devtalles.com/certificates/ugqjzeblat"><img src="https://img.shields.io/badge/Certificado-Ver-4C7B47?style=for-the-badge" /></a></td></tr>
+    <tr><td>Node.Js: De cero a experto</td><td><a href="https://cursos.devtalles.com/certificates/3kj05k91sx"><img src="https://img.shields.io/badge/Certificado-Ver-68A063?style=for-the-badge" /></a></td></tr>
   </table>
 </details>
-
-
 
 <details>
   <summary><b>📁 2023 Certifications</b></summary>
   <br/>
   <table>
-    <a href="https://cursos.devtalles.com/certificates/m5ez6kwi3a"><img src="https://img.shields.io/badge/SQL%20de%20cero%3A%20Tu%20gu%C3%ADa%20pr%C3%A1ctica%20con%20PostgreSQL-2023-336791?style=for-the-badge" /></a>
-    <a href="https://cursos.devtalles.com/certificates/s17vg774yc"><img src="https://img.shields.io/badge/Principios%20SOLID%20y%20Clean%20Code-2023-197419?style=for-the-badge" /></a>
-    <a href="https://cursos.devtalles.com/certificates/btiignzhpb"><img src="https://img.shields.io/badge/TypeScript%3A%20Tu%20completa%20gu%C3%ADa%20y%20manual%20de%20mano-2023-1E90FF?style=for-the-badge" /></a>
-    <a href="https://cursos.devtalles.com/certificates/kexmuijhyf"><img src="https://img.shields.io/badge/JavaScript%20Moderno%3A%20Gu%C3%ADa%20para%20dominar%20el%20idioma-2023-F7DF1E?style=for-the-badge" /></a>
-    <a href="https://cursos.devtalles.com/certificates/bgyevufaap" ><img src="https://img.shields.io/badge/Git%2BGitHub%3A%20Todo%20un%20sistema%20de%20control%20de%20versiones%20de%20cero-2023-333399?style=for-the-badge" /></a>
+    <tr><td>SQL de cero: Tu guía práctica con PostgreSQL</td><td><a href="https://cursos.devtalles.com/certificates/m5ez6kwi3a"><img src="https://img.shields.io/badge/Certificado-Ver-336791?style=for-the-badge" /></a></td></tr>
+    <tr><td>Principios SOLID y Clean Code</td><td><a href="https://cursos.devtalles.com/certificates/s17vg774yc"><img src="https://img.shields.io/badge/Certificado-Ver-197419?style=for-the-badge" /></a></td></tr>
+    <tr><td>TypeScript: Tu completa guía y manual de mano</td><td><a href="https://cursos.devtalles.com/certificates/btiignzhpb"><img src="https://img.shields.io/badge/Certificado-Ver-1E90FF?style=for-the-badge" /></a></td></tr>
+    <tr><td>JavaScript Moderno: Guía para dominar el lenguaje</td><td><a href="https://cursos.devtalles.com/certificates/kexmuijhyf"><img src="https://img.shields.io/badge/Certificado-Ver-F7DF1E?style=for-the-badge" /></a></td></tr>
+    <tr><td>GIT+GitHub: Todo un sistema de control de versiones de cero</td><td><a href="https://cursos.devtalles.com/certificates/bgyevufaap"><img src="https://img.shields.io/badge/Certificado-Ver-333399?style=for-the-badge" /></a></td></tr>
   </table>
 </details>
 
