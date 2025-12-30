@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=600&center=true&vCenter=true&width=720&color=E5E7EB&lines=Building+scalable+web+%26+mobile+solutions;Clean+Architecture+%7C+UX+Driven+%7C+Automation+Mindset;Angular+%7C+Vue+%7C+NestJS+%7C+Flutter+%7C+.NET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=600&center=true&vCenter=true&width=720&color=334155&lines=Building+scalable+web+%26+mobile+solutions;Clean+Architecture+%7C+UX+Driven+%7C+Automation+Mindset;Angular+%7C+Vue+%7C+NestJS+%7C+Flutter+%7C+.NET" />
 </p>
 
 ---
