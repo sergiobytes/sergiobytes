@@ -130,7 +130,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 ## 🎓 Certifications
 
 <table>
-  <tr><td colspan="3"><b>2025</b></td></tr>
+  <tr><td colspan="3" align="center"><b>2025</b></td></tr>
   <tr>
     <td><img src="./assets/tanstack.svg" /></td>
     <td>TanStack Query - Un poderoso gestor de estado asíncrono</td>
