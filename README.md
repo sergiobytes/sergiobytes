@@ -137,22 +137,22 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
     <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge"/></a></td>
   </tr>
   <tr>
-    <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#14B8A6'/></svg>" /></td>
+    <td><img src="./assets/tailwind.svg" /></td>
     <td>TailwindCSS: Para desarrolladores de software</td>
     <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge"/></a></td>
   </tr>
   <tr>
-    <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#5C6BC0'/></svg>" /></td>
+    <td><img src="./assets/patrones.svg" /></td>
     <td>Patrones de Diseño: Soluciones prácticas y eficientes</td>
     <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#1A73E8'/></svg>" /></td>
+    <td><img src="./assets/flutter-gemini.svg" /></td>
     <td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td>
     <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-    <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#AD1457'/></svg>" /></td>
+    <td><img src="./assets/nest-testing.svg" /></td>
     <td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td>
     <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
   </tr>
