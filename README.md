@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-sergiobg.isc%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sergio-barreras/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Barreras-11998E?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Barreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
