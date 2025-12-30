@@ -44,11 +44,11 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <tr><td>📱 Mobile</td><td><img src="https://skills.syvixor.com/api/icons?i=flutter,android" height="28" /></td></tr>
   <tr><td>🧠 Backend & APIs</td><td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td></tr>
   <tr><td>🗄️ Databases</td><td><img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,sqlite,mongodb,prisma" height="28" /></td></tr>
-  <tr><td>⚙️ DevOps & Cloud</td><td><img src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,netlify,nginx,n8n" height="28" /></td></tr>
+  <tr><td>⚙️ DevOps & Cloud</td><td><img src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,netlify,render,nginx,n8n" height="28" /></td></tr>
   <tr><td>☁️ Cloud Platforms & BaaS</td><td><img src="https://skills.syvixor.com/api/icons?i=firebase" height="28" /></td></tr>
   <tr><td>🧪 Testing & Tooling</td><td><img src="https://skills.syvixor.com/api/icons?i=jest,vitest,postman" height="28" /></td></tr>
   <tr><td>📦 Package & State Management</td><td><img src="https://skills.syvixor.com/api/icons?i=npm,pnpm,pinia,tanstack,riverpod,bloc,getx" height="28" /></td></tr>
-  <tr><td>🛠️ Others</td><td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,rxjs,vite,deno,visualstudio,vscode" height="28" /></td></tr>
+  <tr><td>🛠️ Others</td><td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,vite,deno,visualstudio,vscode" height="28" /></td></tr>
 </table>
 
 ---
@@ -82,7 +82,6 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sergiobytes&hide_border=true&background=transparent&ring=0F766E&fire=38BDF8&currStreakLabel=0F766E&sideLabels=64748B&dates=64748B&mode=weekly" />
 </p>
-
 
 ---
 
