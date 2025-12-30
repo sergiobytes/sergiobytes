@@ -260,27 +260,27 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <br/>
   <table>
     <tr>
-      <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#2563EB'/></svg>" /></td>
+      <td><img src="./assets/sql.svg" /></td>
       <td>SQL de cero: Tu guía práctica con PostgreSQL</td>
       <td><a href="https://cursos.devtalles.com/certificates/m5ez6kwi3a"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#2D2D2D'/></svg>" /></td>
+      <td><img src="./assets/solid.svg" /></td>
       <td>Principios SOLID y Clean Code</td>
       <td><a href="https://cursos.devtalles.com/certificates/s17vg774yc"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#3178C6'/></svg>" /></td>
+      <td><img src="./assets/typescript.svg" /></td>
       <td>TypeScript: Tu completa guía y manual de mano</td>
       <td><a href="https://cursos.devtalles.com/certificates/btiignzhpb"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#F7DF1E'/></svg>" /></td>
+      <td><img src="./assets/javascript.svg" /></td>
       <td>JavaScript Moderno: Guía para dominar el lenguaje</td>
       <td><a href="https://cursos.devtalles.com/certificates/kexmuijhyf"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
     </tr>
     <tr>
-      <td><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><circle cx='6' cy='6' r='5' fill='#6E7681'/></svg>" /></td>
+      <td><img src="./assets/git.svg" /></td>
       <td>GIT+GitHub: Todo un sistema de control de versiones de cero</td>
       <td><a href="https://cursos.devtalles.com/certificates/bgyevufaap"><img src="https://img.shields.io/badge/Certificado-Ver-22C55E?style=for-the-badge" /></a></td>
     </tr>
