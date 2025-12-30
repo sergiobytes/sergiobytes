@@ -80,8 +80,9 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiobytes&theme=dark&hide_border=true&background=0D1117&ring=0F766E&fire=38BDF8&currStreakLabel=0F766E&sideLabels=9CA3AF&dates=6B7280&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sergiobytes&hide_border=true&ring=0F766E&fire=38BDF8&currStreakLabel=0F766E&sideLabels=64748B&dates=64748B&mode=weekly" />
 </p>
+
 
 ---
 
