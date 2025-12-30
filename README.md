@@ -40,7 +40,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
 
   <tr><td>💡 Languages</td><td><img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,python,csharp,dart,java" height="28" /></td></tr>
-  <tr><td>💻 Frontend</td><td><img src="https://skills.syvixor.com/api/icons?i=html,css3,sass,tailwind,materialui,daisyui,vite,angular,vue,react" height="28" /></td></tr>
+  <tr><td>💻 Frontend</td><td><img src="https://skills.syvixor.com/api/icons?i=html,css3,sass,tailwind,materialui,daisyui,vite,angular,vue,react,nuxt" height="28" /></td></tr>
   <tr><td>📱 Mobile</td><td><img src="https://skills.syvixor.com/api/icons?i=flutter,android" height="28" /></td></tr>
   <tr><td>🧠 Backend & APIs</td><td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td></tr>
   <tr><td>🗄️ Databases</td><td><img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,sqlite,mongodb,prisma" height="28" /></td></tr>
@@ -88,33 +88,46 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 ## 🎓 Certifications
 
 <table>
-  <tr><td colspan="3" align="center"><b>2025</b></td></tr>
+  <tr><td colspan="3" align="center"><b>2026</b></td></tr>
   <tr>
-    <td><img src="./assets/tanstack.svg" width="14" height="14"/></td>
-    <td>TanStack Query - Un poderoso gestor de estado asíncrono</td>
-    <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/tailwind.svg" width="14" height="14"/></td>
-    <td>TailwindCSS: Para desarrolladores de software</td>
-    <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/patrones.svg" width="14" height="14"/></td>
-    <td>Patrones de Diseño: Soluciones prácticas y eficientes</td>
-    <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/flutter-gemini.svg" width="14" height="14"/></td>
-    <td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td>
-    <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/nest-testing.svg" width="14" height="14"/></td>
-    <td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td>
-    <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    <td><img src="./assets/nuxt.svg" width="14" height="14"/></td>
+    <td>Nuxt: El marco de trabajo web progresivo (Nuxt 4+)</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+    <!-- <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td> -->
   </tr>
 </table>
+
+<details>
+  <summary><b>📁 2025 Certifications</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <td><img src="./assets/tanstack.svg" width="14" height="14"/></td>
+      <td>TanStack Query - Un poderoso gestor de estado asíncrono</td>
+      <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/tailwind.svg" width="14" height="14"/></td>
+      <td>TailwindCSS: Para desarrolladores de software</td>
+      <td><a href="https://cursos.devtalles.com/certificates/mun0egmmzq"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/patrones.svg" width="14" height="14"/></td>
+      <td>Patrones de Diseño: Soluciones prácticas y eficientes</td>
+      <td><a href="https://cursos.devtalles.com/certificates/9wtqpsi6nt"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/flutter-gemini.svg" width="14" height="14"/></td>
+      <td>Flutter + Gemini: Aplicaciones con inteligencia artificial</td>
+      <td><a href="https://cursos.devtalles.com/certificates/j1z4owa1bf"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/nest-testing.svg" width="14" height="14"/></td>
+      <td>NestJS + Testing: Pruebas unitarias y end to end (e2e)</td>
+      <td><a href="https://cursos.devtalles.com/certificates/4uqkvuwbrp"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
+    </tr>
+  </table>
+</details>
 
 <details>
   <summary><b>📁 2024 Certifications</b></summary>
