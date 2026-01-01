@@ -77,7 +77,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🛠️ Others</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,vite,deno,visualstudio,vscode" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,deno,visualstudio,vscode" height="28" /></td>
   </tr>
 </table>
 
