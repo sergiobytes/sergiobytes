@@ -53,7 +53,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🧠 Backend & APIs</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,deno,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
   </tr>
   <tr>
     <td>🗄️ Databases</td>
@@ -77,7 +77,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🛠️ Others</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,deno,visualstudio,vscode" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,visualstudio,vscode" height="28" /></td>
   </tr>
 </table>
 
