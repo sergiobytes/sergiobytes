@@ -53,7 +53,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🧠 Backend & APIs</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,deno,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=nestjs,nodejs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
   </tr>
   <tr>
     <td>🗄️ Databases</td>
@@ -77,7 +77,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🛠️ Others</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,visualstudio,vscode" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,vite,deno,visualstudio,vscode" height="28" /></td>
   </tr>
 </table>
 
@@ -119,11 +119,25 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 
 <table>
   <tr><td colspan="3" align="center"><b>2026</b></td></tr>
+  <!-- <tr>
+    <td><img src="./assets/dotnet-test.svg" width="14" height="14"/></td>
+    <td>.NET: Pruebas completas para minimal API</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr> -->
+  <!-- <tr>
+    <td><img src="./assets/dotnet.svg" width="14" height="14"/></td>
+    <td>.NET Backend: .NET Core, SQL Server y seguridad JWT</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr> -->
+  <tr>
+    <td><img src="./assets/csharp-devtalles.svg" width="14" height="14"/></td>
+    <td>C#: Empieza tu camino en el lenguaje</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr>
   <tr>
     <td><img src="./assets/nuxt.svg" width="14" height="14"/></td>
     <td>Nuxt: El marco de trabajo web progresivo (Nuxt 4+)</td>
-    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
-    <!-- <td><a href="https://cursos.devtalles.com/certificates/8wokab8mnd"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td> -->
+    <td><a href="https://cursos.devtalles.com/certificates/v9et7jlbyj"><img src="https://img.shields.io/badge/View%20Certificate-0F766E?style=for-the-badge" /></a></td>
   </tr>
 </table>
 
