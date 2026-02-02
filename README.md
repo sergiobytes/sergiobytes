@@ -124,6 +124,11 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 <table>
   <tr><td colspan="3" align="center"><b>2026</b></td></tr>
   <tr>
+    <td><img src="./assets/bun.svg" width="14" height="14"/></td>
+    <td>Angular + Sockets: Aplicaciones en tiempo real con Bun</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/dotnet-test.svg" width="14" height="14"/></td>
     <td>.NET: Pruebas completas para minimal API</td>
     <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
