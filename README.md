@@ -9,25 +9,102 @@
   <a href="https://www.linkedin.com/in/sergio-barreras/">
     <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Barreras-0A66C2?style=for-the-badge&logoColor=white"/>
   </a>
+  <a href="https://sergiobytes.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-sergiobytes.netlify.app-38BDF8?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://sergiobytes.netlify.app/cv/Sergio-Barreras-CV.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download-CV-334155?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=600&center=true&vCenter=true&width=720&color=334155&lines=Building+scalable+web+%26+mobile+solutions;Clean+Architecture+%7C+UX+Driven+%7C+Automation+Mindset;Angular+%7C+Vue+%7C+NestJS+%7C+Flutter+%7C+.NET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=600&center=true&vCenter=true&width=720&color=334155&lines=5%2B+years+building+scalable+web+applications;Clean+Architecture+%7C+SOLID+%7C+UX+Driven+%7C+Automation;Angular+%7C+Vue+%7C+Nuxt+%7C+NestJS+%7C+TypeScript" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-Full stack developer focused on building scalable web and mobile solutions.  
-Passionate about clean architecture, user experience, and automation. Always learning and building useful projects.
+Full Stack Developer with **5+ years** of experience building scalable web applications, focused on efficient, maintainable, and user-centered solutions.
+
+I specialize in modern architectures using **Angular, Vue/Nuxt, NestJS, and TypeScript**, always applying **SOLID principles and Clean Architecture**. I also have experience incrementally migrating legacy systems (Django, Express, Flutter) to new stacks without disrupting production.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/5%2B-Years%20of%20experience-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/15%2B-Completed%20projects-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/30%2B-Certifications-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20new%20projects-38BDF8?style=flat-square" />
+</p>
+
+---
+
+## 💼 Experience
+
+**Angular Frontend Developer** · Capgemini  
+`May 2026 – Present` · Aguascalientes, Ags.
+- Resolved accessibility (a11y) issues in the shared component library used across company projects
+- Collaborated with the design team on new reusable components for the design system
+- Improved adoption of existing components by documenting previously uncovered use cases
+
+**Full Stack Developer** · Creative Software International  
+`Jul 2025 – Oct 2025` · Remote from Aguascalientes, Ags.
+- Designed and improved database schemas for granular permissions
+- Implemented advanced rules for delegated workflows
+- Resolved Work Orders deadlocks by refactoring transactional logic
+- Automated email segmentation and fixed CRUD inconsistencies
+
+**Full Stack Developer** · Taruks Soluciones S.A. de C.V.  
+`Dec 2022 – Aug 2024` · Ciudad Obregón, Sonora
+- Developed Angular applications with Clean Architecture principles
+- Integrated REST APIs and implemented reactive forms with RxJS
+- Participated in Scrum ceremonies and code reviews
+- Delivered responsive interfaces aligned with UX best practices
 
 ---
 
 ## 🏢 Entrepreneurship
 
-Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for clients.  
+Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions that help companies transform their business processes.  
 🔗 https://devcrafters.dev/
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🍽️ BotBite</h3>
+      <p><i>AI Waiter Assistant for Restaurants</i></p>
+      <p>Diners scan a QR code and order over WhatsApp with a multilingual AI virtual waiter (text & voice). Owners manage branches and menus from a web dashboard while staff receive orders in real time.</p>
+      <img src="https://skills.syvixor.com/api/icons?i=angular,tailwind,rxjs,websocket,nestjs,typeorm,postgresql,swagger,chatgpt,twilio,cloudinary,render&perline=6" height="56" />
+      <p>
+        <a href="https://botbite.com.mx" target="_blank" rel="noopener noreferrer">View Demo</a> ·
+        <a href="https://github.com/DevCraftersEnterprise/botbite-waiter-app" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⛪ Diocese of Cd. Obregón</h3>
+      <p><i>Digital infrastructure for ecclesiastical administration</i></p>
+      <p>Management platform and public website centralizing parishes, priests, news, and documents, with role-based modules for the Biblical Institute and ISMA, modernized progressively without disrupting operations.</p>
+      <img src="https://skills.syvixor.com/api/icons?i=angular,tailwind,rxjs,nestjs,typeorm,django,postgresql,jest,cloudinary,render&perline=6" height="56" />
+      <p>
+        <a href="https://diocesisdeciudadobregon.org/inicio" target="_blank" rel="noopener noreferrer">View Demo</a> ·
+        <a href="https://github.com/DevCraftersEnterprise/diocesis-web-api" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧁 Magnolias Bakery</h3>
+      <p><i>Multi-branch management for custom order workflows</i></p>
+      <p>Administrative system covering the full order lifecycle — in store, social media, or phone, through production, to delivery — with role-specific views and an online store synced with the internal catalog.</p>
+      <img src="https://skills.syvixor.com/api/icons?i=nuxt,tailwind,nestjs,typeorm,postgresql,jest,vitest,githubactions,sonarqube,cloudinary,render&perline=6" height="56" />
+      <p>
+        <a href="https://pasteleriamagnolias.mx" target="_blank" rel="noopener noreferrer">View Demo</a> ·
+        <a href="https://github.com/DevCraftersEnterprise/magnolias-backend" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,7 +122,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>💻 Frontend</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=html,css3,sass,tailwind,materialui,daisyui,vite,angular,vue,react,nuxt" height="28" /></td>  
+    <td><img src="https://skills.syvixor.com/api/icons?i=html,css3,sass,tailwind,materialui,daisyui,vite,angular,vue,react,nuxt,astro" height="28" /></td>
   </tr>
   <tr>
     <td>📱 Mobile</td>
@@ -53,7 +130,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🧠 Backend & APIs</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=bun,nestjs,nodejs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=bun,nodejs,deno,nestjs,express,dotnet,django,graphql,apollo,jwt,stripe,twilio" height="28" /></td>
   </tr>
   <tr>
     <td>🔄 Background Jobs & Messaging</td>
@@ -61,19 +138,19 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🗄️ Databases</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,sqlite,mongodb,prisma" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,sqlite,mongodb,prisma,typeorm" height="28" /></td>
   </tr>
   <tr>
     <td>⚙️ DevOps & Cloud</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,azure,netlify,render,nginx,n8n" height="28" /></td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,azure,netlify,render,nginx,n8n,githubactions" height="28" /></td>
   </tr>
   <tr>
     <td>☁️ Cloud Platforms & BaaS</td>
     <td><img src="https://skills.syvixor.com/api/icons?i=firebase,websocket" height="28" /></td>
   </tr>
   <tr>
-    <td>🧪 Testing & Tooling</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=jest,vitest,postman" height="28" /></td>
+    <td>🧪 Testing & Tools</td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=jest,vitest,postman,swagger,sonarqube" height="28" /></td>
   </tr>
   <tr>
     <td>📦 Package & State Management</td>
@@ -81,31 +158,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   </tr>
   <tr>
     <td>🛠️ Others</td>
-    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,vite,deno,visualstudio,vscode" height="28" /></td>
-  </tr>
-</table>
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🍽️ BotBite Landing</h3>
-      <p>Marketing site & product introduction.</p>
-      <a href="https://github.com/sergiobytes/botbi-lander">See repo →</a>
-    </td>
-    <td width="33%">
-      <h3>🧩 BotBite Web App</h3>
-      <p>Admin panel & web experience for the product.</p>
-      <a href="https://github.com/sergiobytes/botbite-waiter-app">See repo →</a>
-    </td>
-    <td width="33%">
-      <h3>⚡ BotBite API</h3>
-      <p>Backend service powering the platform.</p>
-      <a href="https://github.com/sergiobytes/botbite-waiter-api">See repo →</a>
-    </td>
+    <td><img src="https://skills.syvixor.com/api/icons?i=git,github,githubcopilot,googlegemini,chatgpt,claudeai,rxjs,visualstudio,vscode" height="28" /></td>
   </tr>
 </table>
 
@@ -124,6 +177,16 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 <table>
   <tr><td colspan="3" align="center"><b>2026</b></td></tr>
   <tr>
+    <td><img src="./assets/react.svg" width="14" height="14"/></td>
+    <td>React: de cero a experto</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/astro.svg" width="14" height="14"/></td>
+    <td>Astro: El framework para sitios web orientados al contenido</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/bun.svg" width="14" height="14"/></td>
     <td>Angular + Sockets: Aplicaciones en tiempo real con Bun</td>
     <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
@@ -131,6 +194,11 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
   <tr>
     <td><img src="./assets/dotnet-test.svg" width="14" height="14"/></td>
     <td>.NET: Pruebas completas para minimal API</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/n8n.svg" width="14" height="14"/></td>
+    <td>n8n + MCP: Automatización y agentes de IA inteligentes</td>
     <td><img src="https://img.shields.io/badge/In%20Progress-0F766E?style=for-the-badge" /></td>
   </tr>
   <tr>
@@ -323,4 +391,7 @@ Co-founder of **DevCrafters** — modern web, mobile, and cloud solutions for cl
 
 ## 📫 Contact
 
-📩 **sergiobg.isc@gmail.com**
+Have a project in mind? I'd love to hear from you.
+
+📩 **sergiobg.isc@gmail.com**  
+🌐 **[sergiobytes.netlify.app](https://sergiobytes.netlify.app/)**
